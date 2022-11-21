@@ -1,1 +1,1 @@
-# hackaton-gan
+# hackathon-gan
